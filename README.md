@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/smadi0x01/JustBatchThem"><img src="https://j.top4top.io/p_2595j06r51.gif" alt="run.logo"></a>
   <br>
-  This is my Teach to Learn technique, which aims to compel me to learn by teaching other people.
+  Java 101 [ Teach To Learn ]
   <br>
 </h1>
 
