@@ -1,3 +1,4 @@
+# Introduction
 ```
    ___                  _____      _____  __  
   |_  |                |  _  |    |  _  |/  | 
@@ -5,7 +6,8 @@
     | |/ _` \ \ / / _` |  /| \ \/ /  /| | | | 
 /\__/ / (_| |\ V / (_| \ |_/ />  <\ |_/ /_| |_
 \____/ \__,_| \_/ \__,_|\___//_/\_\\___/ \___/                                              
- This is my Teach to Learn technique I am trying lately to improve my learning journey.
+ This is my Teach to Learn technique, which aims to learn by teaching other people a topic.
+ It's a way to trick your brain that you understand a certain topic, which makes learning crazy fast.
 ```
 
 ## Why is this different from other courses/tutorials online?
