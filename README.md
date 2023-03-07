@@ -1,4 +1,3 @@
-## Java0x01
 ```This is my Teach to Learn technique I am trying lately to improve my learning journey.```
 
 ## Why is this different from other courses/tutorials online?
