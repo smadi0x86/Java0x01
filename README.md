@@ -7,6 +7,7 @@
 </h1>
 
 <h3 align="center"> This is my studying technique which is self explanatory:</h3>
+
 ```
 Teach to Learn is useful to trick your brain and make it believe that you understand a certain topic by teaching it, which makes learning crazy fast.
 ```
