@@ -1,0 +1,9 @@
+# This is the documentation of the Variables.java file. This file contains the data types and variables in java.
+
+Data types in java are of two types:
+
+Primitive Data types: These are the normal data types in any programming language. 
+Example of primitive data type: int, double, boolean, char etc... and is used to store simple values.
+
+Reference Data Types: These are the data types which are used in java.
+Example of reference data type: String, Scanner, Random etc... and is used to refer to objects.

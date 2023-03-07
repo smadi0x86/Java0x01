@@ -1,0 +1,10 @@
+# You probably came here because you are lost and you need help. You are not alone. I am here to help you.
+
+- So the Material folder has the Introduction to this course, basic java concepts such as: Directories, keywords etc... It should get your feet wet regarding java.
+
+- After you finish reading all of the Material folder now you can start with the real deal.
+
+- Now go to src folder and start with the following:
+
+1 - Variables.java check whats happening there, if you didnt understand you can go to Documentation folder and open Variables.txt.
+2 - UserInput.java check whats happening there, if you didnt understand you can go to Documentation folder and open UserInput.txt.

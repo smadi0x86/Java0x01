@@ -1,0 +1,46 @@
+# These are the most important things that you should know about Java files, classes and methods ethics in a project.
+
+1 - The main method is the entry point of the program. It is the first method that is executed when the program is run. The main method is declared as follows:
+
+    public static void main(String[] args) {
+        // code goes here
+    }
+
+The main method is declared as public, static and void. It is declared as public so that it can be accessed from anywhere. 
+It is declared as static so that it can be called without creating an object of the class. It is declared as void because it does not return any value.
+
+you might see an IDE like IntelliJ or Eclipse automatically generate a main method for you. This is because they are aware of the fact that every Java program must have a main method.
+
+Most common class for a main method is "Main" with a capital M, and the file name is "Main.java" with a capital M. This is not a requirement, but it is a convention that is followed by most Java developers.
+File Name must be the same as the class name, and the class name must be the same as the file name. This is also not a requirement, but it is a convention that is followed by most Java developers.
+Some IDEs might use App.java or Application.java as the file name for the main method. This is also not a requirement, but it is a convention that is followed by most Java developers.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2 - Different classes can have the same method name:
+
+such as:
+
+public class A {
+    public void foo() {
+        System.out.println("A");
+    }
+}
+
+public class B {
+    public void foo() {
+        System.out.println("B");
+    }
+}
+
+we used foo method in both classes.
+
+- Note: But we can't have two methods with the same name and the same parameters
+
+- classes can't have same names as variables and methods.
+
+- Java is a case-sensitive language. This means that the names of variables, methods, and classes are case-sensitive.
+
+- You can call a method from another class, but you can't call a class from another class.
+
+- Also you can call a method defined in a class in main method or in any other method.

@@ -1,0 +1,118 @@
+{
+    // general settings
+    "breadcrumbs.enabled": false,
+    "editor.wordWrap": "on",
+    "editor.lineNumbers": "on",
+    "editor.codeLens": false,
+    "editor.folding": true,
+    "editor.glyphMargin": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": true,
+    "editor.hover.enabled": true,
+    "editor.colorDecorators": false,
+    "editor.minimap.enabled": false,
+    "editor.cursorBlinking": "blink",
+    "editor.renderWhitespace": "none",
+    "editor.suggestSelection": "first",
+    "editor.guides.indentation": true,
+    "editor.renderControlCharacters": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+    "editor.renderLineHighlight": "all",
+    // font settings
+    "editor.fontSize": 15,
+    "editor.fontWeight": "350",
+    "editor.fontFamily": "Cascadia Code",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontFamily": "Cascadia Code",
+    "terminal.integrated.lineHeight": 0,
+    "terminal.integrated.fontWeight": "350",
+    "terminal.integrated.fontWeightBold": "350",
+    "explorer.compactFolders": true, // for java turn true
+    "files.trimTrailingWhitespace": true,
+    // custom langs formatters
+    "files.associations": {
+        "ostream": "cpp",
+        "stdio.h": "c",
+        "unistd.h": "c"
+    },
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "[csharp]": {
+        "editor.defaultFormatter": "csharpier.csharpier-vscode"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    // java settings
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    // better comments
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#DC143C",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    }
+}
