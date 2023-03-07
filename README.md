@@ -1,12 +1,12 @@
 # Introduction
 ``` 
-This is my Teach to Learn technique, which aims to compel me to learn by teaching other people.
- Its useful to trick your brain and make it believe that you understand a certain topic by teaching it, which makes learning crazy fast.
  ▐▄▄▄ ▄▄▄·  ▌ ▐· ▄▄▄· ▐▄• ▄ 
   ·██▐█ ▀█ ▪█·█▌▐█ ▀█  █▌█▌▪
 ▪▄ ██▄█▀▀█ ▐█▐█•▄█▀▀█  ·██· 
 ▐▌▐█▌▐█ ▪▐▌ ███ ▐█ ▪▐▌▪▐█·█▌
  ▀▀▀• ▀  ▀ . ▀   ▀  ▀ •▀▀ ▀▀  
+ This is my Teach to Learn technique, which aims to compel me to learn by teaching other people.
+ Its useful to trick your brain and make it believe that you understand a certain topic by teaching it, which makes learning crazy fast.
 ```
 
 ## Why is this different from other courses/tutorials online?
