@@ -6,8 +6,8 @@
     | |/ _` \ \ / / _` |  /| \ \/ /  /| | | | 
 /\__/ / (_| |\ V / (_| \ |_/ />  <\ |_/ /_| |_
 \____/ \__,_| \_/ \__,_|\___//_/\_\\___/ \___/                                              
- This is my Teach to Learn technique, which aims to learn by teaching other people a topic.
- It's a way to trick your brain that you understand a certain topic, which makes learning crazy fast.
+ This is my Teach to Learn technique, which aims to make me learn by teaching other people a certain topic.
+ Its useful to trick your brain and make it believe that you understand a certain topic by teaching it, which makes learning crazy fast.
 ```
 
 ## Why is this different from other courses/tutorials online?
