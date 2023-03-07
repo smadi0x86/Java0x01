@@ -6,7 +6,7 @@
     | |/ _` \ \ / / _` |  /| \ \/ /  /| | | | 
 /\__/ / (_| |\ V / (_| \ |_/ />  <\ |_/ /_| |_
 \____/ \__,_| \_/ \__,_|\___//_/\_\\___/ \___/                                              
- This is my Teach to Learn technique, which aims to make me learn by teaching other people a certain topic.
+ This is my Teach to Learn technique, which aims to compel me to learn by teaching other people.
  Its useful to trick your brain and make it believe that you understand a certain topic by teaching it, which makes learning crazy fast.
 ```
 
