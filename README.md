@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h3 align="center"> Its useful to trick your brain and make it believe that you understand a certain topic by teaching it, which makes learning crazy fast.</h3>
+<h3 align="center"> Teach to Learn is useful to trick your brain and make it believe that you understand a certain topic by teaching it, which makes learning crazy fast.</h3>
 
 <p align="center">
   <a href="">
