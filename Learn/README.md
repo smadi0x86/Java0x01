@@ -22,7 +22,7 @@ Firstly, Lets start with the basics of object oriented programming:
 ```
 - Object oriented programming is programming based on the concept of "objects".
 
-### ❔ So what is an object in simple words?
+### So what is an object in simple words❔
 - An object is a real world structure that has some properties and can perform certain actions.
 Such as a car it has properties like color, model, year, etc. and can perform actions like drive, stop, etc.
 
@@ -40,7 +40,7 @@ So in object oriented programming we model/describe real world objects as classe
 ```
 An example would be a car class that has a method called drive and an attribute called color.
 ```
-## ❔ How is the code written?
+## How is the code written❔
 
 - Until now we have talked about classes, objects, methods and attributes.
 
