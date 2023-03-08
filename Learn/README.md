@@ -30,13 +30,13 @@ Such as a car it has properties like **color, model, year, etc.** and can perfor
 ```
 So in object oriented programming we model/describe real world objects as classes and then create objects from these classes.
 ```
-- Lets define classes as templates and objects as instances of these templates, think of it as a form that you fill out to create a new object.
+- **Lets define classes as templates and objects as instances of these templates, think of it as a form that you fill out to create a new object.**
 
-- Now lets talk about methods and attributes, methods are actions that an object can perform and attributes are properties of an object.
+- **Now lets talk about methods and attributes, methods are actions that an object can perform and attributes are properties of an object.**
 
 ### Difference between methods and attributes❔
-- Methods are functions that are defined inside a class.
-- Attributes are variables that are defined inside a class.
+- **Methods are functions that are defined inside a class.**
+- **Attributes are variables that are defined inside a class.**
 ```
 An example would be a car class that has a method called drive and an attribute called color.
 ```
@@ -88,7 +88,7 @@ etc...
 
 - **Also, after that we will be explaining methods for different data types and how to use them.**
 
-- **Note:** There will be .java files to show a real world example and there is a documentation with the same .java file but it ends with .txt that explains the code.
+- **Note: There will be .java files to show a real world example and there is a documentation with the same .java file but it ends with .txt that explains the code.**
 ```
 For Example: Variables.java and Variables.txt will explain real world code and documentation of variables in java.
 ```
