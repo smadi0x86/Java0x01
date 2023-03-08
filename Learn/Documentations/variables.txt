@@ -1,4 +1,8 @@
-# This is the documentation of the Variables.java file. This file contains the data types and variables in java.
+#############################################################################################################
+############################################### Variables ###################################################
+#############################################################################################################
+
+> This is the documentation of the Variables.java file. This file contains the data types and variables in java.
 
 Data types in java are of two types:
 
