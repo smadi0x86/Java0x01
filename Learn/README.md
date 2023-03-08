@@ -17,7 +17,7 @@ Firstly, Lets start with the basics of object oriented programming:
 ```
 - Object oriented programming is programming based on the concept of "objects".
 
-So what is an object in simple words?
+### So what is an object in simple words?
 - An object is a real world structure that has some properties and can perform certain actions.
 Such as a car it has properties like color, model, year, etc. and can perform actions like drive, stop, etc.
 
@@ -29,7 +29,7 @@ So in object oriented programming we model/describe real world objects as classe
 
 - Now lets talk about methods and attributes, methods are actions that an object can perform and attributes are properties of an object.
 
-Difference between methods and attributes:
+### Difference between methods and attributes:
 - Methods are functions that are defined inside a class.
 - Attributes are variables that are defined inside a class.
 ```
