@@ -1,4 +1,4 @@
-## 👉 Before getting started read [StudyPlan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) for an improved documentation.
+### 👉 Before getting started read [StudyPlan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) for an improved documentation.
 
 + [Getting Started ](#Getting-Started)
 + [Introduction](#Introduction)
