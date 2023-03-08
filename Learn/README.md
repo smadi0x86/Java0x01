@@ -10,8 +10,8 @@
 
 ## Getting Started
 
-- Hello this is smadi, I'll be happy to help you with object oriented programming in java.
-- I decided to try a new study technique called teach to learn, which means that I'll be teaching you the basics of object oriented programming in java and I'll be learning it at the same time.
+- **Hello this is smadi,** I'll be happy to help you with object oriented programming in java.
+- **I decided to try a new study technique called teach to learn, which means that I'll be teaching you the basics of object oriented programming in java and I'll be learning it at the same time.**
 ```
 Note: I won't be explaining the basics of programming, I'll be explaining the basics of object oriented programming in java, I believe you got the basics of programming from the previous course which was C programming.
 ```
@@ -20,11 +20,11 @@ Note: I won't be explaining the basics of programming, I'll be explaining the ba
 ```
 Firstly, Lets start with the basics of object oriented programming:
 ```
-- Object oriented programming is programming based on the concept of "objects".
+- **Object oriented programming** is programming based on the concept of **"objects".**
 
 ### So what is an object in simple words❔
-- An object is a real world structure that has some properties and can perform certain actions.
-Such as a car it has properties like color, model, year, etc. and can perform actions like drive, stop, etc.
+- **An object is a real world structure** that has some properties and can perform certain actions.
+Such as a car it has properties like **color, model, year, etc.** and can perform actions like drive, stop, etc.
 
 ## Object Orientation
 ```
@@ -42,9 +42,9 @@ An example would be a car class that has a method called drive and an attribute 
 ```
 ## How is the code written
 
-- Until now we have talked about classes, objects, methods and attributes.
+- **Until now we have talked about classes, objects, methods and attributes.**
 
-- So how is the code written? well, lets take a look at this example:
+- **So how is the code written? well, lets take a look at this example:**
 ```java
 class Car {
     String color;
@@ -56,13 +56,13 @@ class Car {
     }
 }
 ```
-- This is a simple class that describes a car, it has 3 attributes and 1 method.
+- **This is a simple class that describes a car, it has 3 attributes and 1 method.**
 
-- Now lets create an object from this class:
+- **Now lets create an object from this class:**
 ```java
 Car car = new Car();
 ```
-- Now we have created an object from the Car class and we can access its attributes and methods:
+- **Now we have created an object from the Car class and we can access its attributes and methods:**
 ```java
 car.color = "red";
 car.model = "BMW";
@@ -70,12 +70,12 @@ car.year = 2018;
 car.drive();
 ```
 
-You saw the
+**You saw the**
 ```java
 Car car = new Car();
 ```
-- This is how we create an object from a class, the new keyword is reserved and is used to create an object from a class.
-- You can also create multiple objects from the same class:
+- **This is how we create an object from a class, the new keyword is reserved and is used to create an object from a class.**
+- **You can also create multiple objects from the same class:**
 ```java
 Car car1 = new Car();
 Car car2 = new Car();
@@ -84,11 +84,11 @@ etc...
 
 ## Important
 
-- I'll be explaining the object oriented programming in two related files for every concept, I'll be uploading them in the next few days, so stay tuned.
+- **I'll be explaining the object oriented programming in two related files for every concept, I'll be uploading them in the next few days, so stay tuned.**
 
-- Also, after that we will be explaining methods for different data types and how to use them.\
+- **Also, after that we will be explaining methods for different data types and how to use them.**
 
-- Note: There will be .java files to show a real world example and there is a documentation with the same .java file but it ends with .txt that explains the code.
+- **Note:** There will be .java files to show a real world example and there is a documentation with the same .java file but it ends with .txt that explains the code.
 ```
 For Example: Variables.java and Variables.txt will explain real world code and documentation of variables in java.
 ```
@@ -99,7 +99,7 @@ If you struggle with the java syntax you can visit this link: <link>https://intr
 ```
 ## License
 
-- This project is licensed under the MIT License - see the LICENSE.md file for details
+- **This project is licensed under the MIT License - see the LICENSE.md file for details.**
 
 ## Contributing
 
@@ -109,8 +109,8 @@ If you struggle with the java syntax you can visit this link: <link>https://intr
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-- Contributions are what make the open source community such an amazing place to be learn, inspire, and create.
-- Any contributions you make are **greatly appreciated**.
+- **Contributions are what make the open source community such an amazing place to be learn, inspire, and create.**
+- **Any contributions you make are greatly appreciated.**
 
 ## Acknowledgments
 ```
