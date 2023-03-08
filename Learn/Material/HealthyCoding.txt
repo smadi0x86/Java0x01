@@ -3,4 +3,8 @@
 1 - Package names are all lowercase, with consecutive words simply concatenated together (no underscores). For example, com.example.deepspace, not com.example.deep_space or com.example.deepSpace.
 2 - Class names are written in UpperCamelCase.
 3 - Method names are written in lowerCamelCase.
-4 - Constants are ALL_CAPS_WITH_UNDERSCORES.
+4 - objects are written in lowerCamelCase.
+5 - Constants are ALL_CAPS_WITH_UNDERSCORES.
+6 - Non-constant fields are written in lowerCamelCase.
+7 - Local variables are written in lowerCamelCase.
+8 - Parameter names are written in lowerCamelCase.

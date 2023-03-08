@@ -1,5 +1,5 @@
 public class MultiDimensionArray {
-    public static void learn() {
+    public static void learn(String[] args) throws Exception {
         // ! A 2D array is an array of arrays:
         //! It can be any data type such as int, double, String, etc.
 

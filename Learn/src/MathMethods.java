@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class MathMethods {
-    public static void learn(String[] args) {
+    public static void learn(String[] args) throws Exception {
         // ! Math is a class that has a bunch of methods that you can use to do math:
 
         double x = 3.50;

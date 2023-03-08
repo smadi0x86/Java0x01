@@ -1,4 +1,4 @@
-import java.util.Scanner; // ? This is how you import the Scanner class from the java.util package
+import java.util.Scanner; // ? This is how you import the Scanner class from the java.util package to use Scanner object
 
 public class UserInput {
     public static void learn(String[] args) throws Exception {

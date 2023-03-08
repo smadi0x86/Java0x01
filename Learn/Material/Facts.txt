@@ -1,7 +1,10 @@
 # This is a list of all the Java keywords and other important concepts in the Java programming language.
 
+Note: You don't have to understand all of these concepts to learn Java, but it is good to know what they are.
+      Also note that this list is not complete, there are many more keywords and concepts in Java.
+
 // object is a collection of data and methods that act on that data
-// class is a template to create objects 
+// class is a template to create objects
 // method is a function that describes the behavior of an object
 // instance is a specific object created from a particular class
 // parameter is a variable in a method definition
@@ -41,14 +44,14 @@
 // exception is an event that occurs during the execution of a program that disrupts the normal flow of instructions
 // exceptions is a way to handle errors in a program and is used to find errors and bugs in the code
 // exception handler is a block of code that handles the exception
-// throw is a keyword that is used to create a custom exception 
-// throws is a keyword that is used to declare exceptions that a method might throw 
+// throw is a keyword that is used to create a custom exception
+// throws is a keyword that is used to declare exceptions that a method might throw
 // we use throw and throws to handle exceptions in our code and is useful when we want to create our own exceptions
 // example of our own exception: throw new IllegalArgumentException("The argument is not valid");
 
 // delegation is the process of passing a request to another object to handle the request
 // example of delegation: a class that has a reference to another class and delegates the work to that class instead of doing the work itself
-// composition is the process of creating a new class by combining other classes that it is composed of 
+// composition is the process of creating a new class by combining other classes that it is composed of
 // example of composition: a class that has references to other classes and uses those classes to do the work instead of doing the work itself
 // interface is a contract that defines the behavior of a class
 // example of interface: a class that implements an interface must implement all the methods defined in the interface

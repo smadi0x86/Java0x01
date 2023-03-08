@@ -1,5 +1,5 @@
 public class Arrays {
-    public static void learn(String[] args) {
+    public static void learn(String[] args) throws Exception {
         // ! Array is a data structure that stores elements of the same type such as int, double, String, etc.
 
         String[] animals = { "lion", "tiger", "bear" }; // ? This is an array of strings
