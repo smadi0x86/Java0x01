@@ -1,4 +1,4 @@
-### 👉 Before getting started read [StudyPlan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) to know what you will learn in this course.
+### 👉 Before getting started read [StudyPlan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) to check the study plan and the order of the files.
 
 + [Getting Started ](#Getting-Started)
 + [Introduction](#Introduction)
