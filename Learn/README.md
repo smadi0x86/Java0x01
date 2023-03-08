@@ -104,6 +104,9 @@ For Example: Variables.java and Variables.txt will explain real world code and d
 
 ## Resources
 
+- **I'll be adding some resources in the references file:**
+[references](https://github.com/smadi0x01/Java0x01/blob/main/Learn/references.txt)
+
 ```
 If you struggle with the java syntax you can visit this link: https://introcs.cs.princeton.edu/java/11cheatsheet/
 ```
