@@ -1,7 +1,7 @@
 + [Getting Started ](#Getting-Started)
 + [Introduction](#Introduction)
 + [Object Orientation](#Object-Orientation)
-+ [How is the code written?](#How-is-the-code-written?)
++ [How is the code written?](#How-is-the-code-written)
 + [Important](#Important)
 + [Resources](#Resources)
 + [License](#License)
@@ -40,7 +40,7 @@ So in object oriented programming we model/describe real world objects as classe
 ```
 An example would be a car class that has a method called drive and an attribute called color.
 ```
-## How is the code written?
+## How is the code written
 
 - Until now we have talked about classes, objects, methods and attributes.
 
@@ -94,23 +94,25 @@ For Example: Variables.java and Variables.txt will explain real world code and d
 ```
 
 ## Resources
-
-- If you struggle with the java syntax you can visit this link: https://introcs.cs.princeton.edu/java/11cheatsheet/
-
+```
+If you struggle with the java syntax you can visit this link: https://introcs.cs.princeton.edu/java/11cheatsheet/
+```
 ## License
 
-- This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+- This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Contributing
 
-- Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+- Contributions are what make the open source community such an amazing place to be learn, inspire, and create.
+- Any contributions you make are **greatly appreciated**.
 
-- 1. Fork the Project
-- 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-- 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-- 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-- 5. Open a Pull Request
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
+```
+Hat tip to anyone whose code was used 🎩
+```
