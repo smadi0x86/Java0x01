@@ -8,7 +8,7 @@
 + [Contributing](#Contributing)
 + [Acknowledgments](#Acknowledgments)
 
-## 🚶 Getting Started
+## Getting Started
 
 - Hello this is smadi, I'll be happy to help you with object oriented programming in java.
 - I decided to try a new study technique called teach to learn, which means that I'll be teaching you the basics of object oriented programming in java and I'll be learning it at the same time.
@@ -16,7 +16,7 @@
 Note: I won't be explaining the basics of programming, I'll be explaining the basics of object oriented programming in java, I believe you got the basics of programming from the previous course which was C programming.
 ```
 
-## 🎓 Introduction
+## Introduction
 ```
 Firstly, Lets start with the basics of object oriented programming:
 ```
@@ -26,7 +26,7 @@ Firstly, Lets start with the basics of object oriented programming:
 - An object is a real world structure that has some properties and can perform certain actions.
 Such as a car it has properties like color, model, year, etc. and can perform actions like drive, stop, etc.
 
-## 🪄 Object Orientation
+## Object Orientation
 ```
 So in object oriented programming we model/describe real world objects as classes and then create objects from these classes.
 ```
@@ -40,7 +40,7 @@ So in object oriented programming we model/describe real world objects as classe
 ```
 An example would be a car class that has a method called drive and an attribute called color.
 ```
-## How is the code written❔
+## How is the code written?
 
 - Until now we have talked about classes, objects, methods and attributes.
 
@@ -82,7 +82,7 @@ Car car2 = new Car();
 etc...
 ```
 
-## 🛑 Important
+## Important
 
 - I'll be explaining the object oriented programming in two related files for every concept, I'll be uploading them in the next few days, so stay tuned.
 
@@ -93,15 +93,15 @@ etc...
 For Example: Variables.java and Variables.txt will explain real world code and documentation of variables in java.
 ```
 
-## 📚 Resources
+## Resources
 
 - If you struggle with the java syntax you can visit this link: https://introcs.cs.princeton.edu/java/11cheatsheet/
 
-## 📝 License
+## License
 
 - This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## 📝 Contributing
+## Contributing
 
 - Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -111,6 +111,6 @@ For Example: Variables.java and Variables.txt will explain real world code and d
 - 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 - 5. Open a Pull Request
 
-## 📜 Acknowledgments
+## Acknowledgments
 
 - Hat tip to anyone whose code was used
