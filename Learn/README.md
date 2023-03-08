@@ -95,7 +95,7 @@ For Example: Variables.java and Variables.txt will explain real world code and d
 
 ## Resources
 ```
-If you struggle with the java syntax you can visit this link: <link>https://introcs.cs.princeton.edu/java/11cheatsheet/</link>
+If you struggle with the java syntax you can visit this link: https://introcs.cs.princeton.edu/java/11cheatsheet/
 ```
 ## License
 
