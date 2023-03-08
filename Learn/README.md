@@ -1,7 +1,7 @@
 + [Getting Started ](#Getting-Started)
-+ [DSTIKE WiFi Duck](#dstike-wifi-duck)
-+ [Atmega32u4 Development Boards](#atmega32u4-development-boards)
-
++ [Introduction](#Introduction)
++ [Object Orientation](#Object-Orientation)
++ [How is the code written?](#How-is-the-code-written?)
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ Difference between methods and attributes:
 ```
 An example would be a car class that has a method called drive and an attribute called color.
 ```
-## How is code written?
+## How is the code written?
 
 - Until now we have talked about classes, objects, methods and attributes.
 
