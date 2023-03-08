@@ -1,6 +1,6 @@
 # You probably came here because you are lost and you need help. You are not alone. I am here to help you.
 
-- So the Material folder has the Introduction to this course, basic java concepts such as: Directories, keywords etc... It should get your feet wet regarding java.
+- So the Material folder has the Introduction.txt file to this course you can start with it also basic java concepts such as: Directories, keywords etc... These should get your feet wet regarding java.
 
 - After you finish reading all of the Material folder now you can start with the real deal.
 
@@ -26,4 +26,5 @@ To run the program in vscode:
 2 - You should see a Test runner for java Extension with them.
 3 - Right click anywhere on the code and click on Run Java Test.
     You can also run the program by pressing F5.
+
 Note: It doesnt matter which file in the project you run, it will always run the main method in App.java.
