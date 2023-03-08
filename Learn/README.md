@@ -1,4 +1,4 @@
-### 👉 Before getting started read [StudyPlan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) to check the study plan and the order of the files.
+### 👉 **Before getting started read [StudyPlan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) to check the study plan and the order of the files.**
 
 + [Getting Started ](#Getting-Started)
 + [Introduction](#Introduction)
@@ -104,8 +104,7 @@ For Example: Variables.java and Variables.txt will explain real world code and d
 
 ## Resources
 
-- **I'll be adding some resources in the references file:**
-[references](https://github.com/smadi0x01/Java0x01/blob/main/Learn/references.txt)
+- **I'll be adding some resources in the [references](https://github.com/smadi0x01/Java0x01/blob/main/Learn/references.txt) file:**
 
 ```
 If you struggle with the java syntax you can visit this link: https://introcs.cs.princeton.edu/java/11cheatsheet/
