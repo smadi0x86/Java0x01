@@ -34,7 +34,7 @@ So in object oriented programming we model/describe real world objects as classe
 
 - Now lets talk about methods and attributes, methods are actions that an object can perform and attributes are properties of an object.
 
-### 🤷🏻 Difference between methods and attributes:
+### Difference between methods and attributes❔
 - Methods are functions that are defined inside a class.
 - Attributes are variables that are defined inside a class.
 ```
@@ -95,7 +95,7 @@ For Example: Variables.java and Variables.txt will explain real world code and d
 
 ## Resources
 ```
-If you struggle with the java syntax you can visit this link: https://introcs.cs.princeton.edu/java/11cheatsheet/
+If you struggle with the java syntax you can visit this link: <link>https://introcs.cs.princeton.edu/java/11cheatsheet/</link>
 ```
 ## License
 
@@ -103,14 +103,14 @@ If you struggle with the java syntax you can visit this link: https://introcs.cs
 
 ## Contributing
 
-- Contributions are what make the open source community such an amazing place to be learn, inspire, and create.
-- Any contributions you make are **greatly appreciated**.
-
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+- Contributions are what make the open source community such an amazing place to be learn, inspire, and create.
+- Any contributions you make are **greatly appreciated**.
 
 ## Acknowledgments
 ```
