@@ -64,3 +64,48 @@ car.model = "BMW";
 car.year = 2018;
 car.drive();
 ```
+
+You saw the
+```java
+Car car = new Car();
+```
+- This is how we create an object from a class, the new keyword is reserved and is used to create an object from a class.
+- You can also create multiple objects from the same class:
+```java
+Car car1 = new Car();
+Car car2 = new Car();
+etc...
+```
+
+## 🛑 Important
+
+- I'll be explaining the object oriented programming in two related files for every concept, I'll be uploading them in the next few days, so stay tuned.
+
+- Also, after that we will be explaining methods for different data types and how to use them.\
+
+- Note: There will be .java files to show a real world example and there is a documentation with the same .java file but it ends with .txt that explains the code.
+```
+For Example: Variables.java and Variables.txt will explain real world code and documentation of variables in java.
+```
+## 📚 Resources
+
+- If you struggle with the java syntax you can visit this link: https://introcs.cs.princeton.edu/java/11cheatsheet/
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+## 📜 Acknowledgments
+
+- Hat tip to anyone whose code was used
+
+## 📝 Contributing
+
+- Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+- 1. Fork the Project
+- 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+- 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+- 4. Push to the Branch (`git push origin feature/AmazingFeature`)
+- 5. Open a Pull Request
