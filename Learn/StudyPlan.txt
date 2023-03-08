@@ -27,4 +27,4 @@ To run the program in vscode:
 3 - Right click anywhere on the code and click on Run Java Test.
     You can also run the program by pressing F5.
 
-Note: It doesnt matter which file in the project you run, it will always run the main method in App.java.
+Note: It doesnt matter which file in the project you run, it will always run the main method in App.java
