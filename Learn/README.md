@@ -1,4 +1,4 @@
-### 👉 **Before getting started read [StudyPlan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) to check the study plan and the order of the files.**
+### 👉 **Before getting started read [StudyPlan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) for guidance.**
 
 + [Getting Started ](#Getting-Started)
 + [Introduction](#Introduction)
@@ -79,7 +79,7 @@ car.year = 2018;
 car.drive();
 ```
 
-**You saw the**
+- **You saw the**
 ```java
 Car car = new Car();
 ```
