@@ -25,7 +25,35 @@
  objects that interact with one another. OOP languages are diverse, but the most popular ones are class-based, 
  meaning that objects are instances of classes, which also determine their types.
 
---> 3. What is the difference between Java and JavaScript?
+--> 3. Procedural programming vs object-oriented programming?
+
+- Procedural programming is a programming paradigm, derived from structured programming, based upon the concept 
+ of the procedure call, It is built around the idea that programs are sequences of instructions to be executed,
+ C language is a procedural programming language while java is Object Oriented Programming.
+
+- Object-oriented programming (OOP) is a programming paradigm based on the concept of “objects”, which can 
+ contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often 
+ known as methods. A feature of objects is that an object’s procedures can access and often modify the data 
+ fields of the object with which they are associated (objects have a notion of “this” or “self”). In OOP, 
+ computer programs are designed by making them out of objects that interact with one another. There is 
+ significant diversity of OOP languages, but the most popular ones are class-based, meaning that objects are 
+ instances of classes, which also determine their types.
+
+--> 4. Why we didnt stay with procedural programming?
+
+- Procedural programming isn’t wrong, but it’s hard to modify and extend. This is because the functionality 
+ dealing with new situations has to be added into existing code.
+
+- OOP allows new functionality to be added without modifying existing code. This makes maintenance of OOP code 
+ much easier than pure procedural code.
+
+--> 5. Should we stop using procedural programming?
+
+- No, Object oriented programming languages are procedural programming languages with extra features that make 
+ it easier than non- object-oriented procedural programming languages to write programs that are easy to 
+ maintain and extend.
+
+--> 6. What is the difference between Java and JavaScript?
 
 - Java is a programming language, while JavaScript is a scripting language. JavaScript is a lightweight, 
  interpreted programming language.
@@ -33,25 +61,39 @@
 - JavaScript is designed for creating network-centric applications. It is complimentary to and integrated with 
  Java. JavaScript is very easy to implement because it is integrated with HTML. It is open and cross-platform.
 
---> 4. What is the difference between Java and Python?
+--> 7. What is the difference between Java and Python?
 
 - Java is a programming language, while Python is a programming language. Java is a high-level programming 
  language. Java is a general-purpose, class-based, object-oriented programming language designed for having 
  lesser implementation dependencies. It is a computing platform for application development. Java is intended 
  to let application developers “write once, run anywhere” (WORA), meaning that compiled Java code can run on 
  all platforms that support Java without the need for recompilation. Java applications are typically compiled 
- to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either of them. The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) that are typically not available in traditional compiled languages. As of 2016, Java was one of the most popular programming languages in use according to GitHub, particularly for client-server web applications, with a reported 9 million developers. Python is a widely used high-level, general-purpose, interpreted, dynamic programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than possible in languages such as C++ or Java. The language provides constructs intended to enable clear programs on both a small and large scale.
+ to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer 
+ architecture. The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either 
+ of them. The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) 
+ that are typically not available in traditional compiled languages. As of 2016, Java was one of the most 
+ popular programming languages in use according to GitHub, particularly for client-server web applications, 
+ with a reported 9 million developers. Python is a widely used high-level, general-purpose, interpreted, 
+ dynamic programming language. Its design philosophy emphasizes code readability, and its syntax allows 
+ programmers to express concepts in fewer lines of code than possible in languages such as C++ or Java. The 
+ language provides constructs intended to enable clear programs on both a small and large scale.
 
 - Python supports multiple programming paradigms, including object-oriented, imperative and functional 
  programming or procedural styles. It features a dynamic type system and automatic memory management and has 
  a large and comprehensive standard library.
 
---> 5. What is the difference between Java and C?
+--> 8. What is the difference between Java and C?
 
 - Java is a high-level programming language. Java is a general-purpose, class-based, object-oriented 
  programming language designed for having lesser implementation dependencies. It is a computing platform for 
  application development. Java is intended to let application developers “write once, run anywhere” (WORA), 
- meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either of them. The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) that are typically not available in traditional compiled languages. As of 2016, Java was one of the most popular programming languages in use according to GitHub, particularly for client-server web applications, with a reported 9 million developers.
+ meaning that compiled Java code can run on all platforms that support Java without the need for 
+ recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual 
+ machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and 
+ C++, but it has fewer low-level facilities than either of them. The Java runtime provides dynamic 
+ capabilities (such as reflection and runtime code modification) that are typically not available in 
+ traditional compiled languages. As of 2016, Java was one of the most popular programming languages in use 
+ according to GitHub, particularly for client-server web applications, with a reported 9 million developers.
  
 - C is a general-purpose, procedural computer programming language supporting structured programming, 
  lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map 
@@ -59,7 +101,33 @@
  assembly language. Such applications include operating systems and various application software for computers 
  ranging from supercomputers to embedded systems.
 
---> 6. What is the difference between JDK, JRE and JVM?
+--> 9. What is the difference between high level and low level languages?
+
+- High-level languages are programming languages that are designed to be easy for humans to read and write.
+
+- Low-level languages are programming languages that are designed to be easy for computers to execute. 
+ High-level languages are programming languages that are designed to be easy for humans to read and write. 
+ Low-level languages are programming languages that are designed to be easy for computers to execute.
+
+--> 10. What is a runtime in programming?
+
+- Runtime is a stage of the programming lifecycle, where the program is executed after compilation. The runtime
+ environment is the environment in which the program is executed.
+
+--> 11. What is a compile time in programming?
+
+- Compile time is a stage of the programming lifecycle, where the program is compiled into machine code. 
+ Usually the compiler translates source code into machine code. Such as gcc for c-language or javac for java.
+
+--> 12. Difference between compiler and builder?
+
+- A compiler is done at any time the compiler is involved in translating programming language code to machine 
+ code.
+
+- A Builder is used when preparing an application for release, which includes compiling, packaging, testing, 
+ etc.
+
+--> 13. What is the difference between JDK, JRE and JVM?
 
 - JDK (Java Development Kit) is a software development environment used for developing Java applications and 
  applets. It contains the JRE, an interpreter/loader (java), a compiler (javac), an archiver (jar), a 
@@ -72,19 +140,57 @@
 
 - The JVM is a specification that is implemented by the JRE.
 
---> 7. What is a class?
+--> 14. What is an IDE?
+
+- An IDE is an integrated development environment that provides comprehensive facilities to computer 
+ programmers for software development. An IDE normally consists of a source code editor, build automation 
+ tools and a debugger. Most modern IDEs have intelligent code completion. Some IDEs, such as NetBeans and 
+ Eclipse, contain a compiler, interpreter, or both. Others, such as IntelliJ IDEA, include a refactoring tool 
+ that assists in the process of modifying existing source code. An IDE normally consists of a source code 
+ editor, build automation tools and a debugger. Most modern IDEs have intelligent code completion. Some IDEs, 
+ such as NetBeans and Eclipse, contain a compiler, interpreter, or both. Others, such as IntelliJ IDEA, 
+ include a refactoring tool that assists in the process of modifying existing source code.
+
+--> 15. What IDE or editor do you use for Java?
+
+- I use visual studio code for Java. Visual Studio Code is a source code editor developed by Microsoft for 
+ Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code 
+ completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, 
+ preferences, and install extensions that add additional functionality such as adding an IDE for 
+ running/compiling java.
+
+--> 16. What is the difference between eclipse and visual studio code?
+
+- Eclipse is an integrated development environment (IDE) used in computer programming, and is the most widely 
+ used Java IDE. It contains a base workspace and an extensible plug-in system for customizing the environment. 
+ Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. Features 
+ include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, 
+ nd embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add 
+ additional functionality.
+
+--> 17. Eclipse or IntelliJ?
+
+- IntelliJ IDEA is an integrated development environment (IDE) written in Java for developing computer 
+ software. It is developed by JetBrains (formerly known as IntelliJ), and is available as an Apache 2 Licensed 
+ community edition, and in a proprietary commercial edition. IntelliJ IDEA provides code analysis, project 
+ navigation, and graphical debugger. It can also be used as a refactoring tool. IntelliJ IDEA supports many 
+ programming languages, including Java, Scala, Groovy, JavaScript, TypeScript, CoffeeScript, CSS, HTML, XML, 
+ SQL, and others.
+
+
+--> 18. What is a class?
 
 - A class is a blueprint from which individual objects are created. A class is a user-defined data type, which 
  holds its own data members and member functions, which can be accessed and used by creating an instance of 
  that class. A class is like an object constructor, or a “blueprint” for creating objects.
 
---> 8. What is an object?
+--> 19. What is an object?
 
 - An object is a software bundle of related state and behavior. Objects are often used to model the real-world 
  objects that you find in everyday life. An object is an instance of a class. A class is like an object 
  constructor, or a “blueprint” for creating objects.
 
---> 9. What is the difference between class and object?
+--> 20. What is the difference between class and object?
 
 - A class is a blueprint from which individual objects are created. A class is a user-defined data type, which 
  holds its own data members and member functions, which can be accessed and used by creating an instance of 
@@ -93,104 +199,68 @@
  you find in everyday life. An object is an instance of a class. A class is like an object constructor, or a 
  “blueprint” for creating objects.
 
---> 10. What is an instance?
+--> 21. What is an instance?
 
 - An instance is a specific object created from a particular class. An instance is a specific object created 
  from a particular class.
 
---> 11. What is a constructor?
+--> 22. What is a method?
 
-A constructor is a special method that is used to initialize objects. The constructor is called when an object of a class is created. It can be used to set initial values for object attributes:
+- A method is a block of code which only runs when it is called. You can pass data, known as parameters, 
+ into a method. Methods are used to perform certain actions, and they are also known as functions. Why use  
+ methods? To reuse code: define the code once, and use it many times.
 
---> 12. What is a method?
+--> 23. What is a constructor?
 
-A method is a block of code which only runs when it is called. You can pass data, known as parameters, into a method. Methods are used to perform certain actions, and they are also known as functions. Why use methods? To reuse code: define the code once, and use it many times.
+- A constructor is a special method that is used to initialize objects. The constructor is called when an 
+ object of a class is created. It can be used to set initial values for object attributes.
 
---> 13. What is the difference between constructor and method?
+--> 24. What is the difference between constructor and method?
 
-A constructor is a special method that is used to initialize objects. The constructor is called when an object of a class is created. It can be used to set initial values for object attributes.
+- A constructor is a special method that is used to initialize objects. The constructor is called when an 
+ object of a class is created. It can be used to set initial values for object attributes.
 
-A method is a block of code which only runs when it is called. You can pass data, known as parameters, into a method. Methods are used to perform certain actions, and they are also known as functions. Why use methods? To reuse code: define the code once, and use it many times.
+- A method is a block of code which only runs when it is called. You can pass data, known as parameters, 
+ into a method. Methods are used to perform certain actions, and they are also known as functions. Why 
+ use methods? To reuse code: define the code once, and use it many times.
 
---> 14. What is an interface?
+--> 25. What is an interface?
 
-An interface is a reference type in Java. It is similar to class. It is a collection of abstract methods. A class implements an interface, thereby inheriting the abstract methods of the interface.
+- An interface is a reference type in Java. It is similar to class. It is a collection of abstract methods. 
+ A class implements an interface, thereby inheriting the abstract methods of the interface.
 
---> 15. What is a package?
+--> 26. What is a package?
 
-A package is a namespace that organizes a set of related classes and interfaces. Conceptually you can think of packages as being similar to different folders on your computer. We use packages to avoid name clashes, and to write a better maintainable code. Packages are divided into two categories: Built-in Packages (packages from the Java API) and User-defined Packages (create your own packages)
+- A package is a namespace that organizes a set of related classes and interfaces. Conceptually you can 
+ think of packages as being similar to different folders on your computer. We use packages to avoid name 
+ clashes, and to write a better maintainable code. Packages are divided into two categories: Built-in 
+ Packages (packages from the Java API) and User-defined Packages (create your own packages).
 
---> 16. What IDE or editor do you use for Java?
+--> 27. What is the difference between static and non-static?
 
-I use visual studio code for Java. Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality such as adding an IDE for running/compiling java.
+- Static methods and variables are associated with the class, rather than a specific object. Non-static methods 
+ and variables are associated with a specific object. Static methods and variables are associated with the 
+ class, rather than a specific object. Non-static methods and variables are associated with a specific object.
 
---> 17. What is the difference between eclipse and visual studio code?
+--> 28. What is the difference between abstract class and interface?
 
-Eclipse is an integrated development environment (IDE) used in computer programming, and is the most widely used Java IDE. It contains a base workspace and an extensible plug-in system for customizing the environment. Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
+- An abstract class is a class that is declared abstract—it may or may not include abstract methods. Abstract 
+ classes cannot be instantiated, but they can be subclassed.
 
---> 18. Eclipse or IntelliJ?
+- An interface is a completely abstract class that contains only static constants and abstract method 
+ signatures. An interface is a completely abstract class that contains only static constants and abstract 
+ method signatures.
 
-IntelliJ IDEA is an integrated development environment (IDE) written in Java for developing computer software. It is developed by JetBrains (formerly known as IntelliJ), and is available as an Apache 2 Licensed community edition, and in a proprietary commercial edition. IntelliJ IDEA provides code analysis, project navigation, and graphical debugger. It can also be used as a refactoring tool. IntelliJ IDEA supports many programming languages, including Java, Scala, Groovy, JavaScript, TypeScript, CoffeeScript, CSS, HTML, XML, SQL, and others.
+--> 29. Why we use Static methods and variables?
 
---> 19. What is an IDE?
+- It is used to define a method or variable that is common to all objects of a class.
 
-An IDE is an integrated development environment that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Most modern IDEs have intelligent code completion. Some IDEs, such as NetBeans and Eclipse, contain a compiler, interpreter, or both. Others, such as IntelliJ IDEA, include a refactoring tool that assists in the process of modifying existing source code. An IDE normally consists of a source code editor, build automation tools and a debugger. Most modern IDEs have intelligent code completion. Some IDEs, such as NetBeans and Eclipse, contain a compiler, interpreter, or both. Others, such as IntelliJ IDEA, include a refactoring tool that assists in the process of modifying existing source code.
+--> 30. What is public and private classes and methods?
 
---> 20. Procedural programming vs object-oriented programming?
+- Public classes and methods can be accessed from anywhere. Private classes and methods can only be accessed 
+ within the class.
 
-Procedural programming is a programming paradigm, derived from structured programming, based upon the concept of the procedure call, It is built around the idea that programs are sequences of instructions to be executed,  C language is a procedural programming language while java is Object Oriented Programming.
+--> 31. Difference between private class and private method?
 
-Object-oriented programming (OOP) is a programming paradigm based on the concept of “objects”, which can contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods. A feature of objects is that an object’s procedures can access and often modify the data fields of the object with which they are associated (objects have a notion of “this” or “self”). In OOP, computer programs are designed by making them out of objects that interact with one another. There is significant diversity of OOP languages, but the most popular ones are class-based, meaning that objects are instances of classes, which also determine their types.
-
---> 21. Why we didnt stay with procedural programming?
-
-Procedural programming isn’t wrong, but it’s hard to modify and extend. This is because the functionality dealing with new situations has to be added into existing code.
-OOP allows new functionality to be added without modifying existing code. This makes maintenance of OOP code much easier than pure procedural code.
-
---> 22. Should we stop using procedural programming?
-
-No, Object oriented programming languages are procedural programming languages with extra features that make it easier than non- object-oriented procedural programming languages to write programs that are easy to maintain and extend.
-
---> 23. What is the difference between static and non-static?
-
-Static methods and variables are associated with the class, rather than a specific object. Non-static methods and variables are associated with a specific object. Static methods and variables are associated with the class, rather than a specific object. Non-static methods and variables are associated with a specific object.
-
---> 24. What is the difference between abstract class and interface?
-
-An abstract class is a class that is declared abstract—it may or may not include abstract methods. Abstract classes cannot be instantiated, but they can be subclassed.
-
-An interface is a completely abstract class that contains only static constants and abstract method signatures. An interface is a completely abstract class that contains only static constants and abstract method signatures.
-
---> 25. Why we use Static methods and variables?
-
-It is used to define a method or variable that is common to all objects of a class.
-
---> 26. What is public and private classes and methods?
-
-Public classes and methods can be accessed from anywhere. Private classes and methods can only be accessed within the class.
-
---> 27. Difference between private class and private method?
-
-A private class can only be accessed within the class. A private method can be accessed within the class and within the package.
-
---> 28. What is the difference between high level and low level languages?
-
-High-level languages are programming languages that are designed to be easy for humans to read and write.
-
-Low-level languages are programming languages that are designed to be easy for computers to execute. High-level languages are programming languages that are designed to be easy for humans to read and write. Low-level languages are programming languages that are designed to be easy for computers to execute.
-
---> 29. What is a runtime in programming?
-
-Runtime is a stage of the programming lifecycle, where the program is executed after compilation. The runtime environment is the environment in which the program is executed.
-
---> 30. What is a compile time in programming?
-
-Compile time is a stage of the programming lifecycle, where the program is compiled into machine code. usually the compiler translates source code into machine code
-such as gcc for c-language or javac for java.
-
---> 31. Difference between compiler and builder?
-
-A compiler is done at any time the compiler is involved in translating programming language code to machine code.
-
-A Builder is used when preparing an application for release, which includes compiling, packaging, testing, etc.
-
+- A private class can only be accessed within the class. A private method can be accessed within the class and 
+ within the package.
