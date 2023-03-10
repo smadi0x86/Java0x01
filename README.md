@@ -26,7 +26,7 @@ I made this working environment that is fully customizable and you will have eve
 ```
 
 ## ⚠️ Disclaimer :
-- I am not responsible for any misuse of this information, its only for education purposes 
+- **I am not responsible for any misuse of this information, its only for education purposes** 
 
 ## 📞 Contact :
 <p align="center">
