@@ -1,4 +1,9 @@
-# This is an explanation of every folder that comes within a java project:
+#############################################################################################################
+############################################ Java Directories ###############################################
+#############################################################################################################
+
+
+> This is an explanation of every folder that comes within a java project:
 
 1 - src(file.java): This is the folder where you will put all your java files. This is the folder that will be compiled by the compiler.
 
