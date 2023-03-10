@@ -1,84 +1,110 @@
+#############################################################################################################
+############################################### Dictionary ##################################################
+#############################################################################################################
+
+
 # This is a list of all the Java keywords and other important concepts in the Java programming language.
 
 Note: You don't have to understand all of these concepts to learn Java, but it is good to know what they are.
       Also note that this list is not complete, there are many more keywords and concepts in Java.
 
-// object is a collection of data and methods that act on that data
-// class is a template to create objects
-// method is a function that describes the behavior of an object
-// instance is a specific object created from a particular class
-// parameter is a variable in a method definition
-// argument is a value passed to a method when it is called
-// local variable is a variable defined inside a method
-// return value is the result of a method
+> An object: is a collection of data and methods that act on that data
+> A class: is a template to create objects
+> A method: is a function that describes the behavior of an object
+> An instance: is a specific object created from a particular class
+> A parameter: is a variable in a method definition
+> An argument: is a value passed to a method when it is called
+> a local variable: is a variable defined inside a method
+> a return value: is the result of a method
 
-// args is a variable name that is used to store the command line arguments as an array of String objects
-// an example of args is String[] args in the main method of a Java program
-// args doesnt have to be named args, it can be named anything as long as it is an array of String objects and is the first parameter of the main method
-// to pass arguments to method use the following syntax: method_name(argument1, argument2, argument3, ...)
+> args: is a variable name that is used to store the command line arguments as an array of String objects
+>> an example of args is String[] args in the main method of a Java program
+>> args doesnt have to be named args, it can be named anything as long as it is an array of String objects 
+  and is the first parameter of the main method
+>> to pass arguments to method use the following syntax: method_name(argument1, argument2, argument3, ...)
 
-// primitive data type is a data type provided by the programming language
-// example of primitive data type: int, double, boolean, char and is used to store simple values
-// reference data type is a data type defined by the programmer
-// example of reference data type: String, Scanner, Random and is used to refer to objects
+> Primitive data type: is a data type provided by the programming language
+>> example of primitive data type: int, double, boolean, char and is used to store simple values
+> Reference data: type is a data type defined by the programmer
+>> example of reference data type: String, Scanner, Random and is used to refer to objects
 
-// casting is the conversion of a value from one data type to another
-// autoboxing is the automatic conversion that the Java compiler makes between the primitive types and their corresponding object wrapper classes
-// unboxing is the reverse of autoboxing, converting an object of a wrapper class to its corresponding primitive value
+> Casting: is the conversion of a value from one data type to another
+> Autoboxing: is the automatic conversion that the Java compiler makes between the primitive types and their 
+ corresponding object wrapper classes
+> Unboxing: is the reverse of autoboxing, converting an object of a wrapper class to its corresponding 
+ primitive value
 
-// inheritance is the ability of one class to derive or inherit the data and behavior from another class
-// inheritance is bad because it can lead to a lot of code duplication and is hard to maintain and debug and is hard to understand and is hard to extend
-// replace inheritance with composition and delegation and interfaces and abstract classes and traits and mixins and use design patterns like the strategy pattern and the template method pattern
-// encapsulation is the bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object's components
-// polymorphism is the provision of a single interface to entities of different types or the use of a single symbol to represent multiple different types
-// abstraction is the process of hiding the implementation details from the user, only the functionality will be provided to the user
+> Inheritance: is the ability of one class to derive or inherit the data and behavior from another class
+>> Inheritance is bad because it can lead to a lot of code duplication and is hard to maintain and debug and 
+  is hard to understand and is hard to extend
+>> replace inheritance with composition and delegation and interfaces and abstract classes and traits and 
+  mixins and use design patterns like the strategy pattern and the template method pattern
+> Encapsulation: is the bundling of data with the methods that operate on that data, or the restricting of 
+ direct access to some of an object's components
+> Polymorphism: is the provision of a single interface to entities of different types or the use of a single 
+ symbol to represent multiple different types
+> Abstraction: is the process of hiding the implementation details from the user, only the functionality will 
+ be provided to the user
 
-// static is a keyword that is used to create class methods and fields
-// public is a keyword that is used to make the members of a class accessible by any other class
-// public method is a method that can be accessed by any other class
-// private is a keyword that is used to make the members of a class accessible only within the declared class itself
-// private method is a method that can be accessed only within the class
-// protected is a keyword that is used to make the members of a class accessible in the same package and subclasses
-// final is a keyword that is used to make a class, method or variable unchangeable
+> Static: is a keyword that is used to create class methods and fields
+> Public: is a keyword that is used to make the members of a class accessible by any other class
+> Public method: is a method that can be accessed by any other class
+> Private: is a keyword that is used to make the members of a class accessible only within the declared class 
+ itself
+> Private method: is a method that can be accessed only within the class
+> Protected: is a keyword that is used to make the members of a class accessible in the same package and 
+ subclasses
+> Final: is a keyword that is used to make a class, method or variable unchangeable
 
-// exception is an event that occurs during the execution of a program that disrupts the normal flow of instructions
-// exceptions is a way to handle errors in a program and is used to find errors and bugs in the code
-// exception handler is a block of code that handles the exception
-// throw is a keyword that is used to create a custom exception
-// throws is a keyword that is used to declare exceptions that a method might throw
-// we use throw and throws to handle exceptions in our code and is useful when we want to create our own exceptions
-// example of our own exception: throw new IllegalArgumentException("The argument is not valid");
+> Exception: is an event that occurs during the execution of a program that disrupts the normal flow of 
+ instructions
+>> Exceptions is a way to handle errors in a program and is used to find errors and bugs in the code
+> Exception handler: is a block of code that handles the exception
+> Throw: is a keyword that is used to create a custom exception
+> Throws: is a keyword that is used to declare exceptions that a method might throw
+>> Throw and throws are used to handle exceptions in our code and is useful when we want to create our own 
+ exceptions
+>> example of our own exception: throw new IllegalArgumentException("The argument is not valid");
 
-// delegation is the process of passing a request to another object to handle the request
-// example of delegation: a class that has a reference to another class and delegates the work to that class instead of doing the work itself
-// composition is the process of creating a new class by combining other classes that it is composed of
-// example of composition: a class that has references to other classes and uses those classes to do the work instead of doing the work itself
-// interface is a contract that defines the behavior of a class
-// example of interface: a class that implements an interface must implement all the methods defined in the interface
-// abstract class is a class that is declared abstract it may or may not include abstract methods
-// example of abstract class: a class that extends an abstract class must implement all the abstract methods in the parent class
-// trait is a type containing certain fields and methods
-// example of trait: a class that extends a trait must implement all the abstract methods in the trait
-// aggregate is a class that contains references to other objects to compose an object
-// example of aggregate: a class that has references to other classes and uses those classes to do the work instead of doing the work itself
-// composition is a stronger form of aggregation
+> Delegation: is the process of passing a request to another object to handle the request
+>> Example of delegation: a class that has a reference to another class and delegates the work to that class 
+ instead of doing the work itself
+> Composition: is the process of creating a new class by combining other classes that it is composed of
+>> Example of composition: a class that has references to other classes and uses those classes to do the work 
+ instead of doing the work itself
+> Interface: is a contract that defines the behavior of a class
+>> Example of interface: a class that implements an interface must implement all the methods defined in the 
+ interface
+> Abstract class: is a class that is declared abstract it may or may not include abstract methods
+>> Example of abstract class: a class that extends an abstract class must implement all the abstract methods in 
+ the parent class
+> A trait: is a type containing certain fields and methods
+>> Example of trait: a class that extends a trait must implement all the abstract methods in the trait
+> Aggregate: is a class that contains references to other objects to compose an object
+>> example of aggregate: a class that has references to other classes and uses those classes to do the work 
+ instead of doing the work itself
+> Composition is a stronger form of aggregation
 
-// design pattern is a general reusable solution to a commonly occurring problem in software design
-// design patterns are used to solve common problems that occur over and over again in software design
-// design patterns are used to make software designs more flexible, easier to understand and easier to maintain
-// design patterns are used to make software designs more reusable, so that they can be applied to different situations to solve different problems
+> Design pattern: is a general reusable solution to a commonly occurring problem in software design
+>> Design patterns are used to solve common problems that occur over and over again in software design
+>> Design patterns are used to make software designs more flexible, easier to understand and easier to maintain
+>> Design patterns are used to make software designs more reusable, so that they can be applied to different 
+ situations to solve different problems
 
-// constructor is a special method used to initialize a new object
-// interface is a set of methods and properties that are required by any class that implements the interface
-// package is a namespace that organizes a set of related classes and interfaces
-// API is a set of classes and interfaces that are intended to be used by other programmers
-// library is a collection of packages
-// framework is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code
-// try is a block of code that is monitored for exceptions
-// catch is a block of code that handles the exception
-// finally is a block of code that is always executed, regardless of the occurrence of exceptions
-// assert is a keyword that is used to test the validity of an assumption
-// enumeration is a special class that represents a group of constants (unchangeable variables, like final variables)
-// annotation is a tag that provides additional information about a program
-// reflection is the ability of a computer program to examine, introspect, and modify its own structure and behavior at runtime
-// generics is the ability to create classes and methods that work with different data types
+> Constructor: is a special method used to initialize a new object
+> Interface: is a set of methods and properties that are required by any class that implements the interface
+> Package: is a namespace that organizes a set of related classes and interfaces
+> API: is a set of classes and interfaces that are intended to be used by other programmers
+> Library: is a collection of packages
+> Framework: is an abstraction in which software providing generic functionality can be selectively changed by 
+ additional user-written code
+> Try: is a block of code that is monitored for exceptions
+> Catch: is a block of code that handles the exception
+> Finally: is a block of code that is always executed, regardless of the occurrence of exceptions
+> Assert: is a keyword that is used to test the validity of an assumption
+> Enumeration: is a special class that represents a group of constants (unchangeable variables, like final 
+ variables)
+> Annotation: is a tag that provides additional information about a program
+> Reflection: is the ability of a computer program to examine, introspect, and modify its own structure and 
+ behavior at runtime
+> Generics: is the ability to create classes and methods that work with different data types
