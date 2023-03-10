@@ -3,9 +3,11 @@
 #############################################################################################################
 
 
-> In a java project we use common traditions and naming conventions. For example, we use the following naming conventions for packages, classes, and methods:
+> In a java project we use common traditions and naming conventions. For example, we use the following naming 
+ conventions for packages, classes, and methods:
 
-1 - Package names are all lowercase, with consecutive words simply concatenated together (no underscores). For example, com.example.deepspace, not com.example.deep_space or com.example.deepSpace.
+1 - Package names are all lowercase, with consecutive words simply concatenated together (no underscores). 
+ For example, com.example.deepspace, not com.example.deep_space or com.example.deepSpace.
 2 - Class names are written in UpperCamelCase.
 3 - Method names are written in lowerCamelCase.
 4 - objects are written in lowerCamelCase.

@@ -51,7 +51,8 @@
 
 > classes can't have same names as variables and methods.
 
-> Java is a case-sensitive language. This means that the names of variables, methods, and classes are case-sensitive.
+> Java is a case-sensitive language. This means that the names of variables, methods, and classes are 
+ case-sensitive.
 
 > You can call a method from another class, but you can't call a class from another class.
 

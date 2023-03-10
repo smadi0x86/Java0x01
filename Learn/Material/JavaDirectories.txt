@@ -5,16 +5,22 @@
 
 > This is an explanation of every folder that comes within a java project:
 
-1 - src(file.java): This is the folder where you will put all your java files. This is the folder that will be compiled by the compiler.
+1 - src(file.java): This is the folder where you will put all your java files. This is the folder that will 
+ be compiled by the compiler.
 
-2 - bin (file.class): This is the folder where the compiler will put the compiled files. This is the folder that will be used by the JVM to run the program.
-JVM is the java virtual machine. It is the software that runs the java program. It is the software that interprets the byte code.
+2 - bin (file.class): This is the folder where the compiler will put the compiled files. This is the folder 
+ that will be used by the JVM to run the program.
+ JVM is the java virtual machine. It is the software that runs the java program. It is the software that 
+ interprets the byte code.
 
-3 - lib: This is the folder where you will put all the jar files. Jar files are the files that contain the java classes which are used by the java program. 
-For example, if you want to use the swing classes, you will have to put the swing.jar file in the lib folder.
+3 - lib: This is the folder where you will put all the jar files. Jar files are the files that contain the 
+ java classes which are used by the java program. 
+ For example, if you want to use the swing classes, you will have to put the swing.jar file in the lib folder.
 
-4 - dist: This is the folder where you will put the final jar file. This is the folder that will be used by the user to run the program.
+4 - dist: This is the folder where you will put the final jar file. This is the folder that will be used by 
+ the user to run the program.
 
-5 - build: This is the folder where the compiler will put the temporary files. This is the folder that will be used by the compiler to compile the program.
+5 - build: This is the folder where the compiler will put the temporary files. This is the folder that will 
+ be used by the compiler to compile the program.
 
 Note: There are more/different named folders for different IDEs but these are the most common ones.
