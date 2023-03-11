@@ -3,10 +3,11 @@
   <a href="https://github.com/smadi0x01/Java0x01"><img src="https://k.top4top.io/p_2626rtqyz1.gif" alt="programming.logo"></a>
 
  ### 🛑 Notice:
-  
+
 👉 **Before getting started read [Studyplan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) for guidance.**
-  
+
 + [Getting Started ](#Getting-Started)
++ [Run in visual studio code](#Run-in-visual-studio-code)
 + [Introduction](#Introduction)
 + [Object Orientation](#Object-Orientation)
 + [How is the code written?](#How-is-the-code-written)
@@ -28,9 +29,9 @@ Note: I won't be explaining the basics of programming, I'll be explaining the ba
 ```
 To run the program in vscode:
 ```
-1 - **Install the [Java](https://vaadin.com/static/content/learning-center/learn/tutorials/vs-code-for-java-and-maven-projects/images/vscode-java-extension-pack.png) Extension Pack.**
-2 - **You should see a Test runner for java Extension with them.**
-3 - **Right click anywhere on the code and click on Run Java Test, you can also run the program by pressing F5.**
+1. **Install the [Java](https://vaadin.com/static/content/learning-center/learn/tutorials/vs-code-for-java-and-maven-projects/images/vscode-java-extension-pack.png) Extension Pack.**
+2. **You should see a Test runner for java Extension with them.**
+3. **Right click anywhere on the code and click on Run Java Test, you can also run the program by pressing F5.**
 
 ```
 Note: It doesnt matter which file in the project you run, it will always run the main method in App.java.
