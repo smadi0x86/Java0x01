@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/smadi0x01/Java0x01"><img src="https://g.top4top.io/p_2626y0xnx1.giff" alt="programming.logo"></a>
+  <a href="https://github.com/smadi0x01/Java0x01"><img src="https://g.top4top.io/p_2626y0xnx1.gif" alt="programming.logo"></a>
   <br>
     
 ### 👉 **Before getting started read [StudyPlan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) for guidance.**
