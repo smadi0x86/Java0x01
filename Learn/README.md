@@ -36,7 +36,7 @@ Get a copy of the project by cloning or downloading it to your local machine and
 ```bash
 git clone https://github/com/smadi0x01/Java0x01.git
 ```
-- **Or you can download the project by clicking on the green button that says "Code" and then click on "Download ZIP".**
+- **Equivalently you can download the project by clicking on the green button that says [Code](https://github.com/smadi0x01/Java0x01/archive/refs/heads/main.zip) to download the .zip file.**
 
 ## Run in visual studio code
 
