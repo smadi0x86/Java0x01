@@ -4,9 +4,7 @@
 
  ### 🛑 Notice:
   
-```  
 👉 Before getting started read [Studyplan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) for guidance.
-```
   
 + [Getting Started ](#Getting-Started)
 + [Introduction](#Introduction)
