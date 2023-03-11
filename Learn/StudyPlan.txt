@@ -44,11 +44,3 @@
 Notes:
 - App.java is the main class, it is the class that runs the program.
 - You can run the program by calling other methods in the main method (App.java).
-
-To run the program in vscode:
-1 - Install the Java Extension Pack. (https://vaadin.com/static/content/learning-center/learn/tutorials/vs-code-for-java-and-maven-projects/images/vscode-java-extension-pack.png)
-2 - You should see a Test runner for java Extension with them.
-3 - Right click anywhere on the code and click on Run Java Test.
-    You can also run the program by pressing F5.
-
-Note: It doesnt matter which file in the project you run, it will always run the main method in App.java.
