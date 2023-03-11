@@ -28,9 +28,7 @@ Note: I won't be explaining the basics of programming, I'll be explaining the ba
 
 ## Downloading the project
 
-```
-Get a copy of the project by cloning or downloading it to your local machine and then you can run/customize it in your IDE.
-```
+- **Get a copy of the project by cloning or downloading it to your local machine and then you can run/customize it in your IDE.**
 
 - **You can clone the project by running this command in your terminal:**
 ```bash
