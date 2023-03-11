@@ -1,8 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/smadi0x01/Java0x01"><img src="https://b.top4top.io/p_262680ccy1.gif" alt="programming.logo"></a>
-  <br>
-    
+
 ### 👉 **Before getting started read [Studyplan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) for guidance.**
 
 + [Getting Started ](#Getting-Started)
