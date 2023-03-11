@@ -32,14 +32,7 @@
 
 - Lets start with the Object Oriented Programming (OOP) part:
 
-1 - Variables.java check whats happening there, if you didnt understand you can go to Documentation folder and open Variables.txt.
-2 - UserInput.java check whats happening there, if you didnt understand you can go to Documentation folder and open UserInput.txt.
-3 - Gui.java check whats happening there, if you didnt understand you can go to Documentation folder and open Gui.txt.
-4 - MathMethods.java check whats happening there, if you didnt understand you can go to Documentation folder and open Math.txt.
-5 - Arrays.java check whats happening there, if you didnt understand you can go to Documentation folder and open Arrays.txt.
-6 - MultiDimensionalArrays.java check whats happening there, if you didnt understand you can go to Documentation folder and open MultiDimensionalArrays.txt.
-7 - StringMethods.java check whats happening there, if you didnt understand you can go to Documentation folder and open StringMethods.txt.
-8 - WrapperClasses.java check whats happening there, if you didnt understand you can go to Documentation folder and open WrapperClasses.txt.
+1 - Objects.java
 
 Notes:
 - App.java is the main class, it is the class that runs the program.
