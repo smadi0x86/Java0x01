@@ -1,0 +1,31 @@
+// ! Method Declaration
+
+// ? Access Modifier: public, private, protected
+
+// ? Return Type: void, int, String, ArrayList, etc.
+
+// ? Method Name: camelCase
+
+// ? Parameters: (String name, int age)
+
+// ? Method Body: { System.out.println("Hello World"); }
+
+// ! Method Call
+// ? MethodName();
+
+// ! Method Overloading
+// ? It is the ability of a method to have multiple definitions
+
+// ! Method Overriding
+ // ? It is the ability of a child class to override a method of its parent class
+
+// ! Method Signature
+// ? It is the combination of the method name and the parameters
+
+// ! Method Parameters
+// ? They are used to pass data to the method
+
+// ! Method Arguments
+// ? They are the actual values passed to the method
+
+// ? The access modifier determines who can access the method

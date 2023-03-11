@@ -1,7 +1,6 @@
 public class WrapperClasses {
     public static void learn(String[] args) throws Exception {
-
-        // ! wrapper classes are used to convert primitive data types to objects and vice versa
+        // ! Wrapper classes are used to convert primitive data types to objects and vice versa
         // ! Its useful when you want to use objects instead of primitive data types, this provides useful methods that can be used with the objects
         // ! For example int to Integer and Integer to int
         // ! The first letter of the wrapper classes is capital, for example Integer, Double, Boolean, etc.

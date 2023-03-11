@@ -1,9 +1,9 @@
 import java.util.ArrayList; // ? This is how we import the ArrayList class from the java.util package to use ArrayLists object
 
 public class ArrayLists {
-    public static void learn(String[] args) {
+    public static void learn(String[] args) throws Exception {
         // ! ArrayLists are resizable arrays that can be used to store a list of items
-        // ! Elements can be added and removed from an ArrayList whenever you want
+        // ! Elements can be added and removed from an ArrayList whenever you want ( at run time)
         // ! ArrayLists can only store reference types (objects)
         // ! ArrayLists are indexed just like arrays
         // ! You cant change the size of list at runtime but you can add and remove elements from it

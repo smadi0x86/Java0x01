@@ -1,7 +1,7 @@
 public class Variables {
     public static void learn(String[] args) throws Exception {
         // ! Learn is a method that takes an array of strings as an argument and returns nothing it can be any name you want
-        // ! primitive data types variables:
+        // ! Primitive data types variables:
 
         int x = 1337;
         System.out.println(x);

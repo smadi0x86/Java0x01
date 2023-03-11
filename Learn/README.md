@@ -17,7 +17,18 @@
 ```
 Note: I won't be explaining the basics of programming, I'll be explaining the basics of object oriented programming in java, I believe you got the basics of programming from the previous course which was C programming.
 ```
+## Run in visual studio code
 
+```
+To run the program in vscode:
+```
+1 - **Install the [Java](https://vaadin.com/static/content/learning-center/learn/tutorials/vs-code-for-java-and-maven-projects/images/vscode-java-extension-pack.png) Extension Pack.**
+2 - **You should see a Test runner for java Extension with them.**
+3 - **Right click anywhere on the code and click on Run Java Test, you can also run the program by pressing F5.**
+
+```
+Note: It doesnt matter which file in the project you run, it will always run the main method in App.java.
+```
 ## Introduction
 
 ```

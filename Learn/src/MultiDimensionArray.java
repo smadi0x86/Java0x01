@@ -1,7 +1,7 @@
 public class MultiDimensionArray {
     public static void learn(String[] args) throws Exception {
         // ! A 2D array is an array of arrays:
-        //! It can be any data type such as int, double, String, etc.
+        // ! It can be any data type such as int, double, String, etc.
 
         // ? I didn't decide how many rows and columns I wanted, I just leave the brackets empty and let Java decide for me
         String[][] names = {
