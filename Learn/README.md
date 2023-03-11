@@ -7,7 +7,7 @@
 👉 **Before getting started read [Studyplan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) for guidance.**
 
 + [Getting Started ](#Getting-Started)
-+ [Cloning/Downloading the project](#Cloning/Downloading-the-project)
++ [Downloading the project](#Downloading-the-project)
 + [Run in visual studio code](#Run-in-visual-studio-code)
 + [Introduction](#Introduction)
 + [Object Orientation](#Object-Orientation)
@@ -26,7 +26,7 @@
 Note: I won't be explaining the basics of programming, I'll be explaining the basics of object oriented programming in java, I believe you got the basics of programming from the previous course which was C programming.
 ```
 
-## Cloning/Downloading the project
+## Downloading the project
 
 ```
 Get a copy of the project by cloning or downloading it to your local machine and then you can run/customize it in your IDE.
