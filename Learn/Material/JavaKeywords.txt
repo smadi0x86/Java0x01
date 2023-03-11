@@ -1,8 +1,13 @@
-# Common keywords:
+#############################################################################################################
+############################################## Java Keywords ################################################
+#############################################################################################################
 
-IDE - Integrated Development Environment. It is the software that you use to write the java program.
-JRE - Java Runtime Environment. It is the software that you use to run the java program.
-JDK - Java Development Kit. It is the software that you use to compile the java program.
-JVM - Java Virtual Machine. It is the software that you use to interpret the byte code.
-JAR - Java Archive. It is the file that contains the java classes which are used by the java program.
-Java SE - Java Standard Edition. It is the java version that is used to write the java program.
+
+> Common keywords:
+
+> IDE - Integrated Development Environment. It is the software that you use to write the java program.
+> JRE - Java Runtime Environment. It is the software that you use to run the java program.
+> JDK - Java Development Kit. It is the software that you use to compile the java program.
+> JVM - Java Virtual Machine. It is the software that you use to interpret the byte code.
+> JAR - Java Archive. It is the file that contains the java classes which are used by the java program.
+> Java SE - Java Standard Edition. It is the java version that is used to write the java program.
