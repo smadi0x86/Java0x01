@@ -18,6 +18,8 @@ Teach to Learn is useful to trick your brain and make it believe that you unders
     ![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
   </a>
   </p>
+  [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
 
 ## Why is this different from other courses/tutorials online?
 ``` 
