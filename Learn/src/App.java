@@ -27,7 +27,10 @@ public class App {
 
        // OverloadedMethods.learn(args);
 
-        Printf.learn(args);
+       // Printf.learn(args);
 
+// * OOP section:
+
+       Objects.learn(args);
     }
 }
