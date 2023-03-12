@@ -14,8 +14,8 @@ Teach to Learn is useful to trick your brain and make it believe that you unders
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/Java-OOP-red.svg">
-    <img src="https://img.shields.io/badge/Teach-2Learn-black.svg">
+    [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/smadi0x01/java0x01)
+    [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
   </a>
   </p>
 
