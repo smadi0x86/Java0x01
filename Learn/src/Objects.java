@@ -7,7 +7,7 @@ public class Objects {
         // ! Objects is useful for storing attributes and methods (functions) in a single place
         // ! Objects can only be created inside the main method or inside another method that is called from the main method or use the static keyword to create the object in the class itself
 
-        Car myCar = new Car(); // ! This is how we create an object of the Car class
+        Car myCar = new Car(); // ? This is how we create an object of the Car class
 
         System.out.println("Manufacturer: " + myCar.Manufacturer);
         System.out.println("Brand: " + myCar.brand);
