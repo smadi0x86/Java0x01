@@ -14,7 +14,7 @@ Teach to Learn is useful to trick your brain and make it believe that you unders
 
 <p align="center">
   <a href="">
-    [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+    [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
   </a>
   </p>
 
