@@ -14,7 +14,7 @@ Teach to Learn is useful to trick your brain and make it believe that you unders
 
 <p align="center">
   <a href="">
-   https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-cyan
+   <img src=https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-cyan>
   </a>
   </p>
 
