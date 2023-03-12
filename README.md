@@ -14,7 +14,7 @@ Teach to Learn is useful to trick your brain and make it believe that you unders
 
 <p align="center">
   <a href="">
-   [Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+   https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-cyan
   </a>
   </p>
 
