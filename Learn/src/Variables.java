@@ -1,6 +1,27 @@
+/*
+    Writer's notes
+    ======================
+    ! It is recommended to have the "Better Comments" extension while reading this file.
+    ! Learn is a method that takes an array of strings as an argument and returns nothing it can be any name you want.
+    ! We suggest that you read "variables.txt" from the "Documentations" folder before procceding in this file.
+*/
+
+/*
+    Explaining the code
+    ======================
+    * Primitive data types variables:
+    ? int : stores integer values.
+    ? double : stores decimal values.
+    ? boolean : Stores a true or false value.
+    ? char : Stores a single character
+
+    * Reference data type:
+    ? String : Stores text values.
+*/
+
+// ------------------------------------------------------ The Code ------------------------------------------------------ //
 public class Variables {
     public static void learn(String[] args) throws Exception {
-        // ! Learn is a method that takes an array of strings as an argument and returns nothing it can be any name you want
         // ! Primitive data types variables:
 
         int x = 1337;
@@ -15,7 +36,9 @@ public class Variables {
         char symbol = '@';
         System.out.println(symbol);
 
-        String name = "leet"; // ! This is a reference data type
+        // ! This is a reference data type:
+
+        String name = "leet";
         System.out.println(name);
 
         System.out.println("Hello " + name + "!");

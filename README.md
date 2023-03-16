@@ -14,8 +14,10 @@ Teach to Learn is useful to trick your brain and make it believe that you unders
 
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/Java-OOP-red.svg">
-    <img src="https://img.shields.io/badge/Teach-2Learn-black.svg">
+   <img src=https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-blue>
+   <img src=https://img.shields.io/badge/License-MIT-blue>
+   <img src=https://img.shields.io/badge/Learn%20-Java-red>
+   <img src=https://img.shields.io/badge/Share-Project-green>
   </a>
   </p>
 
