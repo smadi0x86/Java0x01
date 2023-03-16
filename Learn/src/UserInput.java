@@ -8,6 +8,14 @@
 */
 
 /*
+    Explaining Scanner
+    ======================
+    ! Scanner is a class that you can use to read input from the console.
+    ! You must import "java.util.Scanner" to read user input.
+    ! The scanner in Java is a class, so you have to make an object to read user input.
+*/
+
+/*
     Explaining the code
     ======================
     * import java.util.Scanner; :
