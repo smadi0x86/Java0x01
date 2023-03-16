@@ -17,6 +17,5 @@ public class Constructors {
 
         human1.run(); // ? This prints "John is running"
         human2.walk(); // ? This prints "Jane is walking"
-
     }
 }

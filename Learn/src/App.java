@@ -33,6 +33,8 @@ public class App {
 
       // Objects.learn(args);
 
-      Constructors.learn(args);
+      // Constructors.learn(args);
+
+      VariableScope.learn(args);
     }
 }
