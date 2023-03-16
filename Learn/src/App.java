@@ -31,6 +31,8 @@ public class App {
 
 // * OOP section:
 
-       Objects.learn(args);
+      // Objects.learn(args);
+
+      Constructors.learn(args);
     }
 }

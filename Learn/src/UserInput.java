@@ -6,8 +6,8 @@ public class UserInput {
 
         Scanner scanner = new Scanner(System.in); // ? This is how you create a scanner object that will read the input from the console
 
-        System.out.println("What is your name?"); // ? this is how you print to the console
-        String name = scanner.nextLine(); // ? this is how you read a line of input from the console
+        System.out.println("What is your name?"); // ? This is how you print to the console
+        String name = scanner.nextLine(); // ? This is how you read a line of input from the console
 
         System.out.println("How old are you?");
         int age = scanner.nextInt();
