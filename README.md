@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/smadi0x01/Java0x01"><img src="https://f.top4top.io/p_2622zfxby1.gif" alt="java.logo"></a>
+  <a href="https://github.com/smadi0x86/Java0x01"><img src="https://f.top4top.io/p_2622zfxby1.gif" alt="java.logo"></a>
   <br>
   Java OOP [ Teach To Learn ]
   <br>
