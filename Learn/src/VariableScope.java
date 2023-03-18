@@ -1,3 +1,5 @@
+// * Works simultaneously with DiceRoller.java
+
 public class VariableScope {
     public static void learn(String[] args) throws Exception {
         // ! Local variables: decalred inside a method and can only be accessed from that method

@@ -1,3 +1,5 @@
+// * Works simultaneously with Human.java
+
 public class Constructors {
     public static void learn(String[] args) throws Exception {
         // ! Constructors are special methods that are called when you create an object of a class

@@ -1,3 +1,5 @@
+// * Works simultaneously with VariableScope.java
+
 import java.util.Random; // ? This is the random class that we will use to generate random numbers
 
 public class DiceRoller {

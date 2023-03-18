@@ -2,7 +2,7 @@
     Writer's notes
     ======================
     ! It is recommended to have the "Better Comments" extension while reading this file.
-    
+
 */
 
 /*
@@ -11,12 +11,12 @@
     ! > Objects are instances of classes.
     ! > Objects are created using the "new" keyword.
     ! > Example: <classname> <objectname> = new <classname>();.
-    ! > Objects are created in the heap memory and are referenced by a variable in  
+    ! > Objects are created in the heap memory and are referenced by a variable in
         ! the stack memory (the variable is a pointer to the object).
     ! > Objects are useful for storing attributes and methods (functions) in a single place.
-    ! > Objects can only be created inside the main method or inside another method that is called from the main 
+    ! > Objects can only be created inside the main method or inside another method that is called from the main
         ! method or use the static keyword to create the object in the class itself.
-    
+
 */
 
 /*

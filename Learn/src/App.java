@@ -35,6 +35,6 @@ public class App {
 
       // Constructors.learn(args);
 
-      VariableScope.learn(args);
+      // VariableScope.learn(args);
     }
 }

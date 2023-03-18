@@ -1,3 +1,5 @@
+// * Works simultaneously with Constructors.java
+
 public class Human {
     // ! This is a class that has 3 fields (variables) and a constructor
     // ! The variables must be outside the constructor to be accessible from other methods
