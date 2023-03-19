@@ -2,7 +2,7 @@
     Writer's notes
     ======================
     ! It is recommended to have the "Better Comments" extension while reading this file.
-    ! Please checkout ArrayLists.java before procceeding in this file.
+    ! Please checkout ArrayLists.java before procceeding  in this file, because the basic concept of ArrayLists is explained there.
         
 */
 
