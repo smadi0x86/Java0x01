@@ -2,14 +2,14 @@
     Writer's notes
     ======================
     ! It is recommended to have the "Better Comments" extension while reading this file.
-    ! Please checkout ArrayLists.java before procceeding in this file.
+    ! Please checkout Arrays.java before procceeding in this file.
         
 */
 
 /*
     Explaining Multidimensional Arraylists
     ======================
-    ! A 2D array is an array of arrays:
+    ! A 2D array is an array of arrays
     ! It can be any data type such as int, double, String, etc.
     
 */
@@ -19,7 +19,7 @@
     ======================
     ? 1 > I didn't set size for the array, Java will decide on it's own. you can do that by leaving the brackets empty. => String[][] names =
     ? 2 > Using the index you can change values within an array list
-    ? 3 > You can print the value inside the arraylist using the index. =>  System.out.println(arrayList[i][j]);.
+    ? 3 > You can print the value inside the array using the index. =>  System.out.println(array[i][j]);.
 
 */
 
