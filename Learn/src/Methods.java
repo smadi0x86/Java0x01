@@ -1,30 +1,54 @@
+/*
+    Writer's notes
+    ======================
+    ! It is recommended to have the "Better Comments" extension while reading this file.
+
+    
+*/
+
+/*
+    Explaining
+    ======================
+    !!!!! This file is yet to be documented !!!!!
+    
+*/
+
+/*
+    Explaining the code
+    ======================
+    
+*/
+
 public class Methods {
     public static void learn(String[] args) throws Exception {
         // ! Methods are blocks of code that performs a specific task
         // ! They are used to avoid code duplication and make the code more readable
-        // ! It is executed when it is called and it can be called multiple times such as in a loop
+        // ! It is executed when it is called and it can be called multiple times such
+        // as in a loop
 
-        //? The syntax of a method is:
+        // ? The syntax of a method is:
         // [access modifier] [return type] [method name] ([parameters]) {
-        //     [method body]
-        //   [return statement]             //? It is optional and it is used to return a value from the method
+        // [method body]
+        // [return statement] //? It is optional and it is used to return a value from
+        // the method
         // }
 
-       String name = "John";
-       int age = 21;
-       myMethod(name, age);
-}
-        static void myMethod(String name , int age) {
+        String name = "John";
+        int age = 21;
+        myMethod(name, age);
+    }
 
-            System.out.println("Hello " + name);
-            System.out.println("Your age is " + age);
+    static void myMethod(String name, int age) {
 
-            int var = 10;
-            int var2 = 20;
-            int result = sum(var, var2);
-            System.out.println(result);
-            // ? or
-            System.out.println(sum(var, var2));
+        System.out.println("Hello " + name);
+        System.out.println("Your age is " + age);
+
+        int var = 10;
+        int var2 = 20;
+        int result = sum(var, var2);
+        System.out.println(result);
+        // ? or
+        System.out.println(sum(var, var2));
     }
 
     static int sum(int x, int y) {

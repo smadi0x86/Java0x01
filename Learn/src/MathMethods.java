@@ -1,3 +1,24 @@
+/*
+    Writer's notes
+    ======================
+    ! It is recommended to have the "Better Comments" extension while reading this file.
+
+    
+*/
+
+/*
+    Explaining
+    ======================
+    !!!!! This file is yet to be documented !!!!!
+    
+*/
+
+/*
+    Explaining the code
+    ======================
+    
+*/
+
 import java.util.Scanner;
 
 public class MathMethods {

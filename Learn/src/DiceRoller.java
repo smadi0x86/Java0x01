@@ -1,5 +1,26 @@
 // * Works simultaneously with VariableScope.java
 
+/*
+    Writer's notes
+    ======================
+    ! It is recommended to have the "Better Comments" extension while reading this file.
+
+    
+*/
+
+/*
+    Explaining
+    ======================
+    !!!!! This file is yet to be documented !!!!!
+    
+*/
+
+/*
+    Explaining the code
+    ======================
+    
+*/
+
 import java.util.Random; // ? This is the random class that we will use to generate random numbers
 
 public class DiceRoller {
@@ -9,7 +30,8 @@ public class DiceRoller {
 
     DiceRoller() {
 
-        // ? If we put the variables here they won't be global variables and we won't be able to access them from anywhere in the class
+        // ? If we put the variables here they won't be global variables and we won't be
+        // able to access them from anywhere in the class
         // * Try moving the int number = 0; to here and see what happens
         random = new Random();
         roll();

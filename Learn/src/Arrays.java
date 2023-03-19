@@ -1,6 +1,28 @@
+/*
+    Writer's notes
+    ======================
+    ! It is recommended to have the "Better Comments" extension while reading this file.
+
+    
+*/
+
+/*
+    Explaining
+    ======================
+    !!!!! This file is yet to be documented !!!!!
+    
+*/
+
+/*
+    Explaining the code
+    ======================
+    
+*/
+
 public class Arrays {
     public static void learn(String[] args) throws Exception {
-        // ! Array is a data structure that stores elements of the same type such as int, double, String, etc.
+        // ! Array is a data structure that stores elements of the same type such as
+        // int, double, String, etc.
 
         String[] animals = { "lion", "tiger", "bear" }; // ? This is an array of strings
 
@@ -9,7 +31,8 @@ public class Arrays {
         animals[2] = "bear";
 
         // ? you can also use a for loop to change the values of the elements in array
-        // ? The .length is a property of the array that tells you how many elements are in the array (3 in this case) instead of hard coding it
+        // ? The .length is a property of the array that tells you how many elements are
+        // in the array (3 in this case) instead of hard coding it
 
         for (int i = 0; i < animals.length; i++) {
             animals[i] = "dog"; // ? This will change all the elements in the array to "dog"
