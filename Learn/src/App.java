@@ -7,23 +7,22 @@
 */
 
 /*
-    Explaining
+    Explaining App.java
     ======================
-    !!!!! This file is yet to be documented !!!!!
-    
+    ! This is the main method that is called when you run the program and then it calls all the other methods.
+    ! Uncomment the method that you want to run and comment the rest.
+
 */
 
 /*
-    Explaining the code
+    How to use App.java
     ======================
+    ! Uncomment any of the lines below in order to test the classes in the other files.
     
 */
 
 public class App {
     public static void main(String[] args) throws Exception {
-        // ! This is the main method that is called when you run the program and then it
-        // calls all the other methods:
-        // ! Uncomment the method that you want to run and comment the rest
 
         // Variables.learn(args); // ? args is an array of strings that you can pass to
         // the method
