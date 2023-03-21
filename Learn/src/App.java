@@ -1,11 +1,34 @@
+/*
+    Writer's notes
+    ======================
+    ! It is recommended to have the "Better Comments" extension while reading this file.
+
+    
+*/
+
+/*
+    Explaining App.java
+    ======================
+    ! This is the main method that is called when you run the program and then it calls all the other methods.
+    ! Uncomment the method that you want to run and comment the rest.
+
+*/
+
+/*
+    How to use App.java
+    ======================
+    ! Uncomment any of the lines below in order to test the classes in the other files.
+    
+*/
+
 public class App {
     public static void main(String[] args) throws Exception {
-        // ! This is the main method that is called when you run the program and then it calls all the other methods:
-        // ! Uncomment the method that you want to run and comment the rest
 
-        // Variables.learn(args); // ? args is an array of strings that you can pass to the method
+        // Variables.learn(args); // ? args is an array of strings that you can pass to
+        // the method
 
-        // StringMethods.learn(args); // ? This is how we call a method from another class to run it
+        // StringMethods.learn(args); // ? This is how we call a method from another
+        // class to run it
 
         // UserInput.learn(args);
 
@@ -23,18 +46,18 @@ public class App {
 
         // ForEach.learn(args);
 
-       // Methods.learn(args);
+        // Methods.learn(args);
 
-       // OverloadedMethods.learn(args);
+        // OverloadedMethods.learn(args);
 
-       // Printf.learn(args);
+        // Printf.learn(args);
 
-// * OOP section:
+        // * OOP section:
 
-      // Objects.learn(args);
+        // Objects.learn(args);
 
-      // Constructors.learn(args);
+        // Constructors.learn(args);
 
-      // VariableScope.learn(args);
+        // VariableScope.learn(args);
     }
 }
