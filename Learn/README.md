@@ -1,10 +1,10 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/smadi0x01/Java0x01"><img src="https://k.top4top.io/p_2626rtqyz1.gif" alt="programming.logo"></a>
+  <a href="https://github.com/smadi0x86/Java0x01"><img src="https://k.top4top.io/p_2626rtqyz1.gif" alt="programming.logo"></a>
 
  ### 🛑 Notice:
 
-👉 **Before getting started read [Studyplan](https://github.com/smadi0x01/Java0x01/blob/main/Learn/StudyPlan.txt) for guidance.**
+👉 **Before getting started read [Studyplan](https://github.com/smadi0x86/Java0x01/blob/main/Learn/StudyPlan.txt) for guidance.**
 
 + [Getting Started ](#Getting-Started)
 + [Downloading the project](#Downloading-the-project)
@@ -32,9 +32,9 @@ Note: I won't be explaining the basics of programming, I'll be explaining the ba
 
 - **You can clone the project by running this command in your terminal:**
 ```bash
-git clone https://github/com/smadi0x01/Java0x01.git
+git clone https://github/com/smadi0x86/Java0x01.git
 ```
-- **Equivalently you can download the project by clicking [Here](https://github.com/smadi0x01/Java0x01/archive/refs/heads/main.zip) to download the .zip file.**
+- **Equivalently you can download the project by clicking [Here](https://github.com/smadi0x86/Java0x01/archive/refs/heads/main.zip) to download the .zip file.**
 
 ## Run in visual studio code
 
@@ -134,7 +134,7 @@ For Example: Variables.java and Variables.txt will explain real world code and d
 
 ## Resources
 
-- **I'll be adding some resources in the [references](https://github.com/smadi0x01/Java0x01/blob/main/Learn/references.txt) file:**
+- **I'll be adding some resources in the [references](https://github.com/smadi0x86/Java0x01/blob/main/Learn/references.txt) file:**
 
 ```
 If you struggle with the java syntax you can visit this link: https://introcs.cs.princeton.edu/java/11cheatsheet/
