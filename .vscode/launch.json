@@ -1,0 +1,13 @@
+{
+    "console": "externalTerminal",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Learn_1aefca49",
+            "console": "externalTerminal"
+        }
+    ]
+}
