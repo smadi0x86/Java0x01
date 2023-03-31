@@ -3,7 +3,7 @@
     ======================
     ! It is recommended to have the "Better Comments" extension while reading this file.
 
-    
+
 */
 
 /*
@@ -18,17 +18,15 @@
     How to use App.java
     ======================
     ! Uncomment any of the lines below in order to test the classes in the other files.
-    
+
 */
 
 public class App {
     public static void main(String[] args) throws Exception {
 
-        // Variables.learn(args); // ? args is an array of strings that you can pass to
-        // the method
+        // Variables.learn(args); // ? args is an array of strings that you can pass to the method
 
-        // StringMethods.learn(args); // ? This is how we call a method from another
-        // class to run it
+        // StringMethods.learn(args);
 
         // UserInput.learn(args);
 
@@ -59,5 +57,14 @@ public class App {
         // Constructors.learn(args);
 
         // VariableScope.learn(args);
+
+        // OverloadedConstructors.learn(args);
+
+        // ToString.learn(args);
+
+        // ArrayOfObjects.learn(args);
+
+        ObjectPassing.learn(args);
+        StaticKeyword.learn(args);
     }
 }
