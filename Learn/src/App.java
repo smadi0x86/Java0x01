@@ -69,5 +69,9 @@ public class App {
         // StaticKeyword.learn(args);
 
         // Inheritance.learn(args);
+
+        // MethodOverRiding.learn(args);
+
+
     }
 }

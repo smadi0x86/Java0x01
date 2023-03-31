@@ -1,5 +1,4 @@
 public class ObjectPassing {
-
     public static void learn(String[] args) {
         // ! Object passing is when you pass an object to a method.
         // ! You can pass an object to a method by using the object's name as a parameter.

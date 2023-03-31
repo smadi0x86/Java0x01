@@ -1,5 +1,4 @@
 public class StaticKeyword {
-
     public static void learn(String[] args) {
     // ! Static keyword is used to create a class attribute.
     // ! Static =  A modifier single copy of a variable/method is created and shared.
