@@ -64,7 +64,10 @@ public class App {
 
         // ArrayOfObjects.learn(args);
 
-        ObjectPassing.learn(args);
-        StaticKeyword.learn(args);
+        // ObjectPassing.learn(args);
+
+        // StaticKeyword.learn(args);
+
+        // Inheritance.learn(args);
     }
 }

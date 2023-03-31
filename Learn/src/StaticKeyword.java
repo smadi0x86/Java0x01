@@ -12,6 +12,8 @@ public class StaticKeyword {
 
     System.out.println(Friend.numberOfFriends);
     System.out.println(friend1.numberOfFriends); // ? we can access the static variable using the object name or the class name, but its not recommended due to the confusion.
+    System.out.println(friend2.numberOfFriends);
+    System.out.println(friend3.numberOfFriends);
 
         // * If we remove the static keyword in "Friend.java" from the numberOfFriends variable, we will get 3 different values for each object and we will have to access the variable using the object name.
 
@@ -20,6 +22,7 @@ public class StaticKeyword {
 
         Friend.getNumberOfFriends();
 
-       // Math.round(x); // ? This is an example of a static method that we can use without creating an object.
+
+       // Math.round(x); // ? This is an example of a static method that we can use without creating an object, instead of using Math math = new Math();
     }
 }
