@@ -72,6 +72,10 @@ public class App {
 
         // MethodOverRiding.learn(args);
 
+        // SuperKeyword.learn(args);
 
+        // Abstraction.learn(args);
+
+        // AccessModifiers.learn(args);
     }
 }
