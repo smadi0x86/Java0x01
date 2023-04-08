@@ -18,6 +18,7 @@
     How to use App.java
     ======================
     ! Uncomment any of the lines below in order to test the classes in the other files.
+    ! Hold the CTRL key and left click any of the classes to see the code.
 
 */
 
@@ -77,5 +78,11 @@ public class App {
         // Abstraction.learn(args);
 
         // AccessModifiers.learn(args);
+
+        // * Algorithms section:
+
+        // BinarySearch.main(args);
+
+        // LinearSearch.main(args);
     }
 }
