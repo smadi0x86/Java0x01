@@ -21,7 +21,11 @@
     ======================
     ? 1 > friend1, friend2 and friend3 share the same numberOfFriends variable (A modifier single copy).
     ? 2 > We can access the static variable using the object name or the class name, but its not recommended due to the confusion.
-    ? 3 > This is an example of a static method that we can use without creating an object, instead of using Math math = new Math(); .
+    ? 3 > This method will return the number of friends that we have created.
+    ? 4 > This is an example of a static method that we can use without creating an object, instead of using Math math = new Math(); .
+
+    * If we remove the static keyword in "Friend.java" from the numberOfFriends variable:
+        ? > We will get 3 different values for each object and we will have to access the variable using the object name.
 
 */
 
@@ -40,17 +44,16 @@ public class StaticKeyword {
         System.out.println(friend3.numberOfFriends);
 
         /*
-            ! If we remove the static keyword in "Friend.java" from the numberOfFriends variable:
-                * > We will get 3 different values for each object and we will have to access the variable using the object name.
+           
         */
 
         /*
-            ! We can apply the static keyword to methods as well as shown in "Friend.java" file.
-            ! This method will return the number of friends that we have created:
+            ! 
+            ! 
         */
 
-        Friend.getNumberOfFriends();
+        Friend.getNumberOfFriends();  //? 3
 
-        // Math.round(x); // ? 3
+        // Math.round(x); // ? 4
     }
 }

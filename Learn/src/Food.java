@@ -1,5 +1,6 @@
+// * This works simultaneously with the "ArrayOfObjects.java"
+
 public class Food {
-    // * This works simultaneously with the "ArrayOfObjects.java"
 
     String name;
 

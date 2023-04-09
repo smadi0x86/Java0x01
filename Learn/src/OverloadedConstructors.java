@@ -1,8 +1,30 @@
+/*
+    Writer's notes
+    ======================
+    ! It is recommended to have the "Better Comments" extension while reading this file.
+    * This works simultaneously with "Pizza.java"
+    
+*/
+
+/*
+    Explaining Overloaded Constructors
+    ======================
+    ! Overloaded constructors are multiple within a class with the same name, but different parameters.
+    ! name + parameters = signature
+    
+*/
+
+/*
+    Explaining the code
+    ======================
+    
+*/
+
+//! ------------------------------------------------------ The Code ------------------------------------------------------ //
+
+
 public class OverloadedConstructors {
     public static void learn(String[] args) {
-        // ! overloaded constructors = multiple within a class with the same name, but different parameters.
-        // ! name + parameters = signature
-        // * This works simultaneously with "Pizza.java"
 
         Pizza pizza = new Pizza("Thin Crust", "Tomato Sauce", "Pepperoni", "Mozzarella");
 
