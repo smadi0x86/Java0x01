@@ -1,3 +1,5 @@
+package Algorithms;
+
 public class BinarySearch {
 
     public static int binarySearch(int[] array, int numbertolookFor) {
@@ -22,8 +24,7 @@ public class BinarySearch {
         int high = array.length - 1; // This is the last index of the array, -1 because arrays start at 0.
 
         // While the number is in the array.
-        while (low <= high)
-        {
+        while (low <= high) {
             int middle = (low + high) / 2; // Start at the middle of the array.
             int value = array[middle]; // The value of the middle of the array.
 
