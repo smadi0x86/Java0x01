@@ -1,3 +1,26 @@
+/*
+                                    !! This File is yet to be documented !!
+    Writer's notes
+    ======================
+    ! It is recommended to have the "Better Comments" extension while reading this file.
+                            
+    
+*/
+
+/*
+    Explaining
+    ======================
+    
+*/
+
+/*
+    Explaining the code
+    ======================
+    
+*/
+
+//! ------------------------------------------------------ The Code ------------------------------------------------------ //
+
 package AccessModifiers;
 
 public class AccessModifiers {

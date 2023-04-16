@@ -1,5 +1,6 @@
+// * This works simultaneously with "Person.java" and "SuperKeyword.java" files.
+
 public class Hero extends Person{
-    // * This works simultaneously with "Person.java" and "SuperKeyword.java" files.
 
     String power;
 
