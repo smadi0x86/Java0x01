@@ -1,30 +1,27 @@
-<<<<<<< HEAD:Learn/src/Algorithms/BinarySearch.java
-package Algorithms;
-=======
 /*
                                     !! This File is yet to be documented !!
     Writer's notes
     ======================
     ! It is recommended to have the "Better Comments" extension while reading this file.
-                            
-    
+
+
 */
 
 /*
     Explaining
     ======================
-    
+
 */
 
 /*
     Explaining the code
     ======================
-    
+
 */
 
 //! ------------------------------------------------------ The Code ------------------------------------------------------ //
 
->>>>>>> f11365a7c1179b3739fe2c94746c497952eadfad:Learn/src/BinarySearch.java
+package Algorithms;
 
 public class BinarySearch {
 
