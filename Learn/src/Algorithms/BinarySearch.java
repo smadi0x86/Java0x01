@@ -54,10 +54,15 @@ public class BinarySearch {
             System.out.println("Middle: " + value);
 
             if (value < numbertolookFor) {
+
                 low = middle + 1; // If the value is less than the number we are looking for, then the number is in the upper half of the array.
+
             } else if (value > numbertolookFor) {
+
                 high = middle - 1; // If the value is greater than the number we are looking for, then the number is in the lower half of the array.
+
             } else {
+
                 return middle; // If the value is equal to the number we are looking for, then we have found the number.
             }
         }
