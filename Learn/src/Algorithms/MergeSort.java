@@ -7,8 +7,8 @@ public class MergeSort {
         // ! Merge Sort is a Divide and Conquer algorithm.
         // ! It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves.
         // ! Time complexity is O(n log n)
-        // * Disadvantages: It is slow, it is not efficient.
-        // * Advantages: It is easy to implement.
+        // * Disadvantages: It is hard to implement.
+        // * Advantages: It is more efficient than Bubble Sort and Selection Sort.
 
         int[] array = { 3, 20, 15, 4, 2, 1, 32 };
 
